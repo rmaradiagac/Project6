@@ -6,7 +6,9 @@ public class Demo1 {
 		System.out.println("*******");
 
 		int j = 0;
+		int x = 20;
 
+		System.out.println( j + x);
 	}
 
 }
